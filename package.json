@@ -1,0 +1,26 @@
+{
+  "name": "writetxt",
+  "version": "1.0.0",
+  "description": "Simple tool to write a basic txt file",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "writeTxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinoAR/Node-Command-Line-Test.git"
+  },
+  "keywords": [
+    "txt",
+    "file"
+  ],
+  "author": "Kino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KinoAR/Node-Command-Line-Test/issues"
+  },
+  "homepage": "https://github.com/KinoAR/Node-Command-Line-Test#readme",
+  "bin": {
+    "writeTxt": "./writeTextFile.js"
+  }
+}
