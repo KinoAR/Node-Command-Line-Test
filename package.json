@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/KinoAR/Node-Command-Line-Test#readme",
   "bin": {
-    "writeTxt": "./writeTextFile.js"
+    "writeTxt": "./writeTextFile.js",
+    "readTxt": "./readTextFile.js"
   }
 }
